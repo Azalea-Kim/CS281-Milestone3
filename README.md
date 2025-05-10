@@ -15,3 +15,9 @@ Model0
 https://drive.google.com/file/d/1ZZZJtH-u6Cad3NtMFegJ1WfqhhTi2MtS/view?usp=sharing    
 Model 1
 https://drive.google.com/file/d/1bngo2n5P64n1Ey4yw54G1D4Hhq_Fpj-g/view?usp=sharing
+
+# convert_features.py 
+Converts features.h5 files from HLOC to COLMAP required features.
+
+# convert_to_matches.py
+Converts matches.h5 files from HLOC to COLMAP required matches.
